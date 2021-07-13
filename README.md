@@ -8,7 +8,12 @@
 ~~~python
 pip install -U gensim
 ~~~
-
+## skearn套件相關安裝
+~~~python=
+pip install numpy
+pip install scipy
+pip install sklearn
+~~~
 ## 訓練過程
 
 ### word2vec 訓練過程
